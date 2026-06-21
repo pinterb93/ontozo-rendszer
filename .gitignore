@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+mariadb_data/
+esp32/config.py
